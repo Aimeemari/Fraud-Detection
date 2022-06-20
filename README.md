@@ -21,7 +21,7 @@ The data was imbalanced and this was catered for by feeding the model with a bai
 
 **Model Structure**
 
-Due to restrictions on mermory allocation on google colab, model was kept moderate. "100 dense layers". Model achieved a vidation accuracy of 0.99
+Due to restrictions on mermory allocation on google colab, model was kept moderate. "100 dense layers". Model achieved a validation accuracy of 0.99
 
 **Optimization Steps**
 
